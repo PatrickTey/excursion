@@ -1,0 +1,38 @@
+html {
+  background-color: black;
+  text-align: center;
+  color: azure;
+}
+
+header p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.main-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.mid-page {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  color: gray;
+  text-align: right;
+}
+
+#cell-Phone {
+  margin: auto;
+  padding: 0.5%;
+}
