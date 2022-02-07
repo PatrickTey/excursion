@@ -33,6 +33,11 @@ footer {
 }
 
 #cell-Phone {
-  margin: auto;
-  padding: 0.5%;
+  position: relative;
+  top: 20px;
+}
+
+#top-Download {
+  position: relative;
+  top: -30px;
 }
